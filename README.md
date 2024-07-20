@@ -98,7 +98,7 @@ NOTE: Make sure the api.orders container is running.
 You can also install all the dependencies locally and run the tests using the same command that you run inside the docker container from the bakcend directory. Would recommend setting up a python env under the .venv directory name for this
 
 ## Products Page Screenshot
-![Proudct SS](ss1.pngs?raw=true "ProductPage")
+![Proudct SS](ss1.png?raw=true "ProductPage")
 
 ## Your task
 
