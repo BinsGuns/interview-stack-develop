@@ -97,6 +97,9 @@ NOTE: Make sure the api.orders container is running.
 
 You can also install all the dependencies locally and run the tests using the same command that you run inside the docker container from the bakcend directory. Would recommend setting up a python env under the .venv directory name for this
 
+## Products Page Screenshot
+![Proudct SS](ss1.pngs?raw=true "ProductPage")
+
 ## Your task
 
 You must develop the Products page for this application and create a PUBLIC github repo with the implementaion. There will be 3 steps to this task.
@@ -169,3 +172,4 @@ You must replace all of the product photo urls with real photo urls (you can use
 ## Submission
 
 To submit the solution please email `aadeyeye@marzvfx.com` with a link to your github repo with the implemented task. For the email subject please specify your full name (first and last name) as well as the roll you are applying for
+
